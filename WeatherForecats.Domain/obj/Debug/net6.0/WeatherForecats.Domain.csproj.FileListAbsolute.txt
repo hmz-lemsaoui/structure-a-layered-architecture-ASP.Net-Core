@@ -1,0 +1,12 @@
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\bin\Debug\net6.0\WeatherForecats.Domain.deps.json
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\bin\Debug\net6.0\WeatherForecats.Domain.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\bin\Debug\net6.0\WeatherForecats.Domain.pdb
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\obj\Debug\net6.0\WeatherForecats.Domain.csproj.AssemblyReference.cache
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\obj\Debug\net6.0\WeatherForecats.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\obj\Debug\net6.0\WeatherForecats.Domain.AssemblyInfoInputs.cache
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\obj\Debug\net6.0\WeatherForecats.Domain.AssemblyInfo.cs
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\obj\Debug\net6.0\WeatherForecats.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\obj\Debug\net6.0\WeatherForecats.Domain.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\obj\Debug\net6.0\refint\WeatherForecats.Domain.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\obj\Debug\net6.0\WeatherForecats.Domain.pdb
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecats.Domain\obj\Debug\net6.0\ref\WeatherForecats.Domain.dll

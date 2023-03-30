@@ -1,0 +1,15 @@
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecasts.Service.deps.json
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecasts.Service.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecasts.Service.pdb
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecats.Domain.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\bin\Debug\net6.0\WeatherForecats.Domain.pdb
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.csproj.AssemblyReference.cache
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.AssemblyInfoInputs.cache
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.AssemblyInfo.cs
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.csproj.CoreCompileInputs.cache
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.csproj.CopyComplete
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\refint\WeatherForecasts.Service.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\WeatherForecasts.Service.pdb
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Service\obj\Debug\net6.0\ref\WeatherForecasts.Service.dll

@@ -1,0 +1,15 @@
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecasts.Dal.deps.json
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecasts.Dal.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecasts.Dal.pdb
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecats.Domain.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\bin\Debug\net6.0\WeatherForecats.Domain.pdb
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.csproj.AssemblyReference.cache
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.AssemblyInfoInputs.cache
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.AssemblyInfo.cs
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.csproj.CoreCompileInputs.cache
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.csproj.CopyComplete
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\refint\WeatherForecasts.Dal.dll
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\WeatherForecasts.Dal.pdb
+C:\Users\LEMSAOUI\3D Objects\projects-dotnet\WeatherForecasts\WeatherForecasts.Dal\obj\Debug\net6.0\ref\WeatherForecasts.Dal.dll
